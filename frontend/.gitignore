@@ -1,0 +1,25 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Datasets (Kepler Raw Parquets)
+*.parquet
+*.zip
+data/
+sample_data/
+train/
+dev/
+private/
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db

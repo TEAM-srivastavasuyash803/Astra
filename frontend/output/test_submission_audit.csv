@@ -1,0 +1,4 @@
+star_id,prediction,confidence,sde,period,depth_ppm,duration_hours,rp_rs,planet_class,habitable_zone,odd_even_pass,secondary_pass,transits,vetting_score,reasons,runtime_s
+KIC_10002867,0,0.42,25.17,,,,,None,False,False,True,3,0.65,Odd/even depth asymmetry (likely eclipsing binary),19.3
+KIC_10006971,0,0.42,16.35,,,,,None,False,True,True,2,0.75,Fewer than 3 observed transits,24.95
+KIC_10057494,0,0.42,18.38,,,,,None,False,False,True,2,0.4,Odd/even depth asymmetry (likely eclipsing binary); Fewer than 3 observed transits,16.75
